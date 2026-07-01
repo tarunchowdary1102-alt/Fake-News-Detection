@@ -191,7 +191,7 @@ The models are evaluated using:
 
 ## Author
 
-**M. Durga Prasad**
+**M. Tarun Chowdary**
 
 B.Tech – Computer Science Engineering
 
