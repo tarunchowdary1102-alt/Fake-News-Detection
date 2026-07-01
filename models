@@ -1,1 +1,7 @@
 
+import joblib
+
+# Save trained models
+joblib.dump(logistic, "models/logistic.pkl")
+joblib.dump(decision_tree, "models/decision_tree.pkl")
+joblib.dump(vectorizer, "models/tfidf.pkl")
